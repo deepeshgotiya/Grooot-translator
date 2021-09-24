@@ -28,9 +28,6 @@ body{
     font-family: 'Bonheur Royale', cursive;
     font-size: 2rem;
     font-weight: bold;
-    
-    
-
 }
 .groot{
     max-width: 30%;
@@ -54,4 +51,15 @@ body{
     box-shadow: 2px 4px 12px -1px rgba(0,0,0,0.37);
     -webkit-box-shadow: 2px 4px 12px -1px rgba(0,0,0,0.37);
     -moz-box-shadow: 2px 4px 12px -1px rgba(0,0,0,0.37);
+}
+footer{
+    background-color:#fbbe24c2 ;
+    text-align: center;
+    padding: 1rem 1rem;
+    text-decoration: none;
+
+}
+.footer-img{
+    max-width: 10%;
+    height: 2rem;
 }
