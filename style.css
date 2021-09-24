@@ -12,21 +12,22 @@ body{
     width: 80%;
     height: 10rem;
     border: 1px solid black;
-    margin: 1rem;
-    padding: 1rem;
-    border-top-right-radius: 1rem;
-    font-size: 1.5rem;
+    padding: 1rem 1rem;
+    margin: 1rem 8rem;
+    border-radius: 1rem;
+    font-size: 2rem;
 }
 #btn-translate{
     background-color: #4CAF50; 
     border: none;
     color:black;
     padding: 15px 60px;
-    border-top-right-radius: 0.5rem;  
+    border-radius: 0.5rem;  
     box-shadow:gray;
     cursor: pointer;
     font-family: 'Bonheur Royale', cursive;
-    font-size: 1.8rem;
+    font-size: 2rem;
+    font-weight: bold;
     
     
 
@@ -42,17 +43,11 @@ body{
     text-align: center;
     padding: 1rem 1rem;
     font-size: 1.8rem;
-}
-nav{
-    background-color:#fbbe24c2 ;
-    text-align: center;
-    padding: 1rem 1rem;
-    font-size: 1.8rem;
+    margin: 2rem;
+    border-radius: 0.5rem;
 }
 .button{
     text-align: center;
-    
-    
 }
 #btn-translate:hover{
     box-shadow: 0 12 0px;
