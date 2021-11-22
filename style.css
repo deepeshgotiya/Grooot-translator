@@ -7,15 +7,26 @@ body{
     background-color:#fde68a8c;
     font-family: 'Bonheur Royale', cursive;
 }
+.inputDiv{
+    align-items: center;
+    display: flex;
+    place-content: center;
+    margin-bottom: 2rem;
+}
+.outputDiv{
+    align-items: center;
+    display: flex;
+    place-content: center;
+    margin-bottom: 2rem;
+}
 .text-area{
-    background-color: #EDE9FE;
+    height: 30vh;
     width: 80%;
-    height: 10rem;
-    border: 1px solid black;
-    padding: 1rem 1rem;
-    margin: 1rem 8rem;
-    border-radius: 1rem;
     font-size: 2rem;
+    font-family: 'Caveat', cursive;
+    border: 2px solid black;
+    border-radius: 1rem;
+    box-shadow: 10px 9px 5px -7px rgba(33,4,4,0.51);
 }
 #btn-translate{
     background-color: #4CAF50; 
